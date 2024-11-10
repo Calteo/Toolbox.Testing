@@ -35,7 +35,7 @@ jobs:
       uses: NuGet/setup-nuget@v2
 
     - name: Install DocFX
-      uses: crazy-max/ghaction-chocolatey@v1
+      uses: crazy-max/ghaction-chocolatey@v3
       with:
         args: install docfx
 
@@ -43,7 +43,7 @@ jobs:
     #  run: echo "Version = ${{ env.BUILD_VERSION }}"
     
     - name: Version Visual Studio SDK projects
-      uses: roryprimrose/set-vs-sdk-project-version@v1.0.3
+      uses: roryprimrose/set-vs-sdk-project-version@v1
       with:
         version: "${{ env.BUILD_VERSION }}.0"
         assemblyVersion: "${{ env.BUILD_VERSION }}.0"
@@ -52,7 +52,7 @@ jobs:
     
     # Compile the solution
     - name: Compile solution
-      run: dotnet build src\Toolbox.Core.sln -c Release -o output
+      run: dotnet build src\Toolbox.Testing.sln -c Release -o output
 
     # Test?
     
