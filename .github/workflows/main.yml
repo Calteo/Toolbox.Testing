@@ -32,7 +32,7 @@ jobs:
         dotnet-version: 8.0.x
 
     - name: Install NuGet
-      uses: NuGet/setup-nuget@v1.0.5
+      uses: NuGet/setup-nuget@v2
 
     - name: Install DocFX
       uses: crazy-max/ghaction-chocolatey@v1
