@@ -1,4 +1,4 @@
-name: Toolbox.Core
+name: Toolbox.Testing
 
 on:
   push:
