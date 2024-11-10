@@ -8,7 +8,7 @@
         {
           "src": "../",
           "files": [
-            "src/Toolbox.Core/*.csproj"
+            "src/Toolbox.Testing/*.csproj"
           ]
         }
       ]
