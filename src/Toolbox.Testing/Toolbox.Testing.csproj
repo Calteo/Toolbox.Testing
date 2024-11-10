@@ -6,9 +6,20 @@
     <Nullable>enable</Nullable>
     <Title>Toolbox Testing</Title>
     <Authors>Calteo</Authors>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Description>Componets to make testing easier</Description>
+    <PackageIcon>toolbox.png</PackageIcon>
+    <RepositoryUrl>https://github.com/Calteo/Toolbox.Testing</RepositoryUrl>
   </PropertyGroup>
 
-  <ItemGroup>
+	<ItemGroup>
+		<None Include="images\toolbox.png">
+			<Pack>True</Pack>
+			<PackagePath></PackagePath>
+		</None>
+	</ItemGroup>
+
+	<ItemGroup>
     <PackageReference Include="MSTest.TestFramework" Version="3.6.2" />
   </ItemGroup>
 

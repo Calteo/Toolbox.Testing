@@ -134,5 +134,19 @@ namespace Toolbox.Testing.Tests
 
 			Assert.IsTrue(raisedCalled);
 		}
+
+		[TestMethod]
+		[ExpectedException(typeof(AssertFailedException))]
+		public void AssertEventHandlerType()
+		{
+			var cut = new TestObject();
+
+			var monitor = cut.GetMonitor()
+				.Subscribe<EventHandler<EventArgs>>(nameof(cut.SimpleEvent))
+				.Build();
+
+			monitor.Assert();
+		}
+
 	}
 }
