@@ -1,11 +1,7 @@
 ﻿namespace Toolbox.Testing
 {
-	public class EventMonitor<T> : EventMonitorBase where T : class
+	public class EventMonitor<T>(T obj) : EventMonitorBase(obj) where T : class
 	{
-		public EventMonitor(T obj) : base(obj)
-		{ 
-		}
-
 		public EventMonitor<T> Build() => this;
 
 		public void Assert()
@@ -22,7 +18,7 @@
 				?? throw new MissingFieldException(Object.GetType().FullName, name);
 
 			if (eventInfo.EventHandlerType != typeof(TE))
-				throw new ArgumentException($"Event {name} is not handler of type {typeof(TE).Name}.", nameof(name));
+				throw new ArgumentException($"Event {name} is not of type {typeof(TE).GetTypeName()}.", nameof(name));
 
 			var hook = new EventHook<T, TE>(this, eventInfo);
 			Hooks.Add(hook);

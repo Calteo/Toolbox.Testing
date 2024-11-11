@@ -136,7 +136,7 @@ namespace Toolbox.Testing.Tests
 		}
 
 		[TestMethod]
-		[ExpectedException(typeof(AssertFailedException))]
+		[ExpectedException(typeof(ArgumentException))]
 		public void AssertEventHandlerType()
 		{
 			var cut = new TestObject();

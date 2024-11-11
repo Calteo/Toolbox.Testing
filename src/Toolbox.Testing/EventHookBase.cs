@@ -1,4 +1,5 @@
-﻿using System.Reflection;
+﻿using System.Diagnostics.CodeAnalysis;
+using System.Reflection;
 
 namespace Toolbox.Testing
 {
@@ -38,6 +39,7 @@ namespace Toolbox.Testing
 		protected delegate void InvokeAction(EventHookBase hook, EventCall call);
 		protected delegate void InvokeAssertation(EventHookBase hook);
 
+		[SuppressMessage("CodeQuality", "IDE0051:Remove unused private members", Justification = "Used by reflection")]
 		private void Handler2<T1, T2>(T1 p1, T2 p2)
 		{
 			Handler(p1, p2);
