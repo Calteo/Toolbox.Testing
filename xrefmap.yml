@@ -1,0 +1,305 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: Toolbox.Testing
+  name: Toolbox.Testing
+  href: api/Toolbox.Testing.html
+  commentId: N:Toolbox.Testing
+  fullName: Toolbox.Testing
+  nameWithType: Toolbox.Testing
+- uid: Toolbox.Testing.EventCall
+  name: EventCall
+  href: api/Toolbox.Testing.EventCall.html
+  commentId: T:Toolbox.Testing.EventCall
+  fullName: Toolbox.Testing.EventCall
+  nameWithType: EventCall
+- uid: Toolbox.Testing.EventHook`2
+  name: EventHook<T, TE>
+  href: api/Toolbox.Testing.EventHook-2.html
+  commentId: T:Toolbox.Testing.EventHook`2
+  name.vb: EventHook(Of T, TE)
+  fullName: Toolbox.Testing.EventHook<T, TE>
+  fullName.vb: Toolbox.Testing.EventHook(Of T, TE)
+  nameWithType: EventHook<T, TE>
+  nameWithType.vb: EventHook(Of T, TE)
+- uid: Toolbox.Testing.EventHook`2.Build
+  name: Build()
+  href: api/Toolbox.Testing.EventHook-2.html#Toolbox_Testing_EventHook_2_Build
+  commentId: M:Toolbox.Testing.EventHook`2.Build
+  fullName: Toolbox.Testing.EventHook<T, TE>.Build()
+  fullName.vb: Toolbox.Testing.EventHook(Of T, TE).Build()
+  nameWithType: EventHook<T, TE>.Build()
+  nameWithType.vb: EventHook(Of T, TE).Build()
+- uid: Toolbox.Testing.EventHook`2.Build*
+  name: Build
+  href: api/Toolbox.Testing.EventHook-2.html#Toolbox_Testing_EventHook_2_Build_
+  commentId: Overload:Toolbox.Testing.EventHook`2.Build
+  isSpec: "True"
+  fullName: Toolbox.Testing.EventHook<T, TE>.Build
+  fullName.vb: Toolbox.Testing.EventHook(Of T, TE).Build
+  nameWithType: EventHook<T, TE>.Build
+  nameWithType.vb: EventHook(Of T, TE).Build
+- uid: Toolbox.Testing.EventHook`2.Exactly(System.Int32)
+  name: Exactly(Int32)
+  href: api/Toolbox.Testing.EventHook-2.html#Toolbox_Testing_EventHook_2_Exactly_System_Int32_
+  commentId: M:Toolbox.Testing.EventHook`2.Exactly(System.Int32)
+  fullName: Toolbox.Testing.EventHook<T, TE>.Exactly(System.Int32)
+  fullName.vb: Toolbox.Testing.EventHook(Of T, TE).Exactly(System.Int32)
+  nameWithType: EventHook<T, TE>.Exactly(Int32)
+  nameWithType.vb: EventHook(Of T, TE).Exactly(Int32)
+- uid: Toolbox.Testing.EventHook`2.Exactly*
+  name: Exactly
+  href: api/Toolbox.Testing.EventHook-2.html#Toolbox_Testing_EventHook_2_Exactly_
+  commentId: Overload:Toolbox.Testing.EventHook`2.Exactly
+  isSpec: "True"
+  fullName: Toolbox.Testing.EventHook<T, TE>.Exactly
+  fullName.vb: Toolbox.Testing.EventHook(Of T, TE).Exactly
+  nameWithType: EventHook<T, TE>.Exactly
+  nameWithType.vb: EventHook(Of T, TE).Exactly
+- uid: Toolbox.Testing.EventHook`2.Maximum(System.Int32)
+  name: Maximum(Int32)
+  href: api/Toolbox.Testing.EventHook-2.html#Toolbox_Testing_EventHook_2_Maximum_System_Int32_
+  commentId: M:Toolbox.Testing.EventHook`2.Maximum(System.Int32)
+  fullName: Toolbox.Testing.EventHook<T, TE>.Maximum(System.Int32)
+  fullName.vb: Toolbox.Testing.EventHook(Of T, TE).Maximum(System.Int32)
+  nameWithType: EventHook<T, TE>.Maximum(Int32)
+  nameWithType.vb: EventHook(Of T, TE).Maximum(Int32)
+- uid: Toolbox.Testing.EventHook`2.Maximum*
+  name: Maximum
+  href: api/Toolbox.Testing.EventHook-2.html#Toolbox_Testing_EventHook_2_Maximum_
+  commentId: Overload:Toolbox.Testing.EventHook`2.Maximum
+  isSpec: "True"
+  fullName: Toolbox.Testing.EventHook<T, TE>.Maximum
+  fullName.vb: Toolbox.Testing.EventHook(Of T, TE).Maximum
+  nameWithType: EventHook<T, TE>.Maximum
+  nameWithType.vb: EventHook(Of T, TE).Maximum
+- uid: Toolbox.Testing.EventHook`2.Minimum(System.Int32)
+  name: Minimum(Int32)
+  href: api/Toolbox.Testing.EventHook-2.html#Toolbox_Testing_EventHook_2_Minimum_System_Int32_
+  commentId: M:Toolbox.Testing.EventHook`2.Minimum(System.Int32)
+  fullName: Toolbox.Testing.EventHook<T, TE>.Minimum(System.Int32)
+  fullName.vb: Toolbox.Testing.EventHook(Of T, TE).Minimum(System.Int32)
+  nameWithType: EventHook<T, TE>.Minimum(Int32)
+  nameWithType.vb: EventHook(Of T, TE).Minimum(Int32)
+- uid: Toolbox.Testing.EventHook`2.Minimum*
+  name: Minimum
+  href: api/Toolbox.Testing.EventHook-2.html#Toolbox_Testing_EventHook_2_Minimum_
+  commentId: Overload:Toolbox.Testing.EventHook`2.Minimum
+  isSpec: "True"
+  fullName: Toolbox.Testing.EventHook<T, TE>.Minimum
+  fullName.vb: Toolbox.Testing.EventHook(Of T, TE).Minimum
+  nameWithType: EventHook<T, TE>.Minimum
+  nameWithType.vb: EventHook(Of T, TE).Minimum
+- uid: Toolbox.Testing.EventHook`2.Raised(`1)
+  name: Raised(TE)
+  href: api/Toolbox.Testing.EventHook-2.html#Toolbox_Testing_EventHook_2_Raised__1_
+  commentId: M:Toolbox.Testing.EventHook`2.Raised(`1)
+  fullName: Toolbox.Testing.EventHook<T, TE>.Raised(TE)
+  fullName.vb: Toolbox.Testing.EventHook(Of T, TE).Raised(TE)
+  nameWithType: EventHook<T, TE>.Raised(TE)
+  nameWithType.vb: EventHook(Of T, TE).Raised(TE)
+- uid: Toolbox.Testing.EventHook`2.Raised*
+  name: Raised
+  href: api/Toolbox.Testing.EventHook-2.html#Toolbox_Testing_EventHook_2_Raised_
+  commentId: Overload:Toolbox.Testing.EventHook`2.Raised
+  isSpec: "True"
+  fullName: Toolbox.Testing.EventHook<T, TE>.Raised
+  fullName.vb: Toolbox.Testing.EventHook(Of T, TE).Raised
+  nameWithType: EventHook<T, TE>.Raised
+  nameWithType.vb: EventHook(Of T, TE).Raised
+- uid: Toolbox.Testing.EventHook`2.Subscribe*
+  name: Subscribe
+  href: api/Toolbox.Testing.EventHook-2.html#Toolbox_Testing_EventHook_2_Subscribe_
+  commentId: Overload:Toolbox.Testing.EventHook`2.Subscribe
+  isSpec: "True"
+  fullName: Toolbox.Testing.EventHook<T, TE>.Subscribe
+  fullName.vb: Toolbox.Testing.EventHook(Of T, TE).Subscribe
+  nameWithType: EventHook<T, TE>.Subscribe
+  nameWithType.vb: EventHook(Of T, TE).Subscribe
+- uid: Toolbox.Testing.EventHook`2.Subscribe``1(System.String)
+  name: Subscribe<TOther>(String)
+  href: api/Toolbox.Testing.EventHook-2.html#Toolbox_Testing_EventHook_2_Subscribe__1_System_String_
+  commentId: M:Toolbox.Testing.EventHook`2.Subscribe``1(System.String)
+  name.vb: Subscribe(Of TOther)(String)
+  fullName: Toolbox.Testing.EventHook<T, TE>.Subscribe<TOther>(System.String)
+  fullName.vb: Toolbox.Testing.EventHook(Of T, TE).Subscribe(Of TOther)(System.String)
+  nameWithType: EventHook<T, TE>.Subscribe<TOther>(String)
+  nameWithType.vb: EventHook(Of T, TE).Subscribe(Of TOther)(String)
+- uid: Toolbox.Testing.EventHookBase
+  name: EventHookBase
+  href: api/Toolbox.Testing.EventHookBase.html
+  commentId: T:Toolbox.Testing.EventHookBase
+  fullName: Toolbox.Testing.EventHookBase
+  nameWithType: EventHookBase
+- uid: Toolbox.Testing.EventHookBase.#ctor(Toolbox.Testing.EventMonitorBase,System.Reflection.EventInfo)
+  name: EventHookBase(EventMonitorBase, EventInfo)
+  href: api/Toolbox.Testing.EventHookBase.html#Toolbox_Testing_EventHookBase__ctor_Toolbox_Testing_EventMonitorBase_System_Reflection_EventInfo_
+  commentId: M:Toolbox.Testing.EventHookBase.#ctor(Toolbox.Testing.EventMonitorBase,System.Reflection.EventInfo)
+  fullName: Toolbox.Testing.EventHookBase.EventHookBase(Toolbox.Testing.EventMonitorBase, System.Reflection.EventInfo)
+  nameWithType: EventHookBase.EventHookBase(EventMonitorBase, EventInfo)
+- uid: Toolbox.Testing.EventHookBase.#ctor*
+  name: EventHookBase
+  href: api/Toolbox.Testing.EventHookBase.html#Toolbox_Testing_EventHookBase__ctor_
+  commentId: Overload:Toolbox.Testing.EventHookBase.#ctor
+  isSpec: "True"
+  fullName: Toolbox.Testing.EventHookBase.EventHookBase
+  nameWithType: EventHookBase.EventHookBase
+- uid: Toolbox.Testing.EventHookBase.Actions
+  name: Actions
+  href: api/Toolbox.Testing.EventHookBase.html#Toolbox_Testing_EventHookBase_Actions
+  commentId: P:Toolbox.Testing.EventHookBase.Actions
+  fullName: Toolbox.Testing.EventHookBase.Actions
+  nameWithType: EventHookBase.Actions
+- uid: Toolbox.Testing.EventHookBase.Actions*
+  name: Actions
+  href: api/Toolbox.Testing.EventHookBase.html#Toolbox_Testing_EventHookBase_Actions_
+  commentId: Overload:Toolbox.Testing.EventHookBase.Actions
+  isSpec: "True"
+  fullName: Toolbox.Testing.EventHookBase.Actions
+  nameWithType: EventHookBase.Actions
+- uid: Toolbox.Testing.EventHookBase.Assert
+  name: Assert()
+  href: api/Toolbox.Testing.EventHookBase.html#Toolbox_Testing_EventHookBase_Assert
+  commentId: M:Toolbox.Testing.EventHookBase.Assert
+  fullName: Toolbox.Testing.EventHookBase.Assert()
+  nameWithType: EventHookBase.Assert()
+- uid: Toolbox.Testing.EventHookBase.Assert*
+  name: Assert
+  href: api/Toolbox.Testing.EventHookBase.html#Toolbox_Testing_EventHookBase_Assert_
+  commentId: Overload:Toolbox.Testing.EventHookBase.Assert
+  isSpec: "True"
+  fullName: Toolbox.Testing.EventHookBase.Assert
+  nameWithType: EventHookBase.Assert
+- uid: Toolbox.Testing.EventHookBase.Assertations
+  name: Assertations
+  href: api/Toolbox.Testing.EventHookBase.html#Toolbox_Testing_EventHookBase_Assertations
+  commentId: P:Toolbox.Testing.EventHookBase.Assertations
+  fullName: Toolbox.Testing.EventHookBase.Assertations
+  nameWithType: EventHookBase.Assertations
+- uid: Toolbox.Testing.EventHookBase.Assertations*
+  name: Assertations
+  href: api/Toolbox.Testing.EventHookBase.html#Toolbox_Testing_EventHookBase_Assertations_
+  commentId: Overload:Toolbox.Testing.EventHookBase.Assertations
+  isSpec: "True"
+  fullName: Toolbox.Testing.EventHookBase.Assertations
+  nameWithType: EventHookBase.Assertations
+- uid: Toolbox.Testing.EventHookBase.Count
+  name: Count
+  href: api/Toolbox.Testing.EventHookBase.html#Toolbox_Testing_EventHookBase_Count
+  commentId: P:Toolbox.Testing.EventHookBase.Count
+  fullName: Toolbox.Testing.EventHookBase.Count
+  nameWithType: EventHookBase.Count
+- uid: Toolbox.Testing.EventHookBase.Count*
+  name: Count
+  href: api/Toolbox.Testing.EventHookBase.html#Toolbox_Testing_EventHookBase_Count_
+  commentId: Overload:Toolbox.Testing.EventHookBase.Count
+  isSpec: "True"
+  fullName: Toolbox.Testing.EventHookBase.Count
+  nameWithType: EventHookBase.Count
+- uid: Toolbox.Testing.EventHookBase.EventInfo
+  name: EventInfo
+  href: api/Toolbox.Testing.EventHookBase.html#Toolbox_Testing_EventHookBase_EventInfo
+  commentId: F:Toolbox.Testing.EventHookBase.EventInfo
+  fullName: Toolbox.Testing.EventHookBase.EventInfo
+  nameWithType: EventHookBase.EventInfo
+- uid: Toolbox.Testing.EventHookBase.InvokeAction
+  name: EventHookBase.InvokeAction
+  href: api/Toolbox.Testing.EventHookBase.InvokeAction.html
+  commentId: T:Toolbox.Testing.EventHookBase.InvokeAction
+  fullName: Toolbox.Testing.EventHookBase.InvokeAction
+  nameWithType: EventHookBase.InvokeAction
+- uid: Toolbox.Testing.EventHookBase.InvokeAssertation
+  name: EventHookBase.InvokeAssertation
+  href: api/Toolbox.Testing.EventHookBase.InvokeAssertation.html
+  commentId: T:Toolbox.Testing.EventHookBase.InvokeAssertation
+  fullName: Toolbox.Testing.EventHookBase.InvokeAssertation
+  nameWithType: EventHookBase.InvokeAssertation
+- uid: Toolbox.Testing.EventMonitor`1
+  name: EventMonitor<T>
+  href: api/Toolbox.Testing.EventMonitor-1.html
+  commentId: T:Toolbox.Testing.EventMonitor`1
+  name.vb: EventMonitor(Of T)
+  fullName: Toolbox.Testing.EventMonitor<T>
+  fullName.vb: Toolbox.Testing.EventMonitor(Of T)
+  nameWithType: EventMonitor<T>
+  nameWithType.vb: EventMonitor(Of T)
+- uid: Toolbox.Testing.EventMonitorBase
+  name: EventMonitorBase
+  href: api/Toolbox.Testing.EventMonitorBase.html
+  commentId: T:Toolbox.Testing.EventMonitorBase
+  fullName: Toolbox.Testing.EventMonitorBase
+  nameWithType: EventMonitorBase
+- uid: Toolbox.Testing.EventMonitorBase.#ctor(System.Object)
+  name: EventMonitorBase(Object)
+  href: api/Toolbox.Testing.EventMonitorBase.html#Toolbox_Testing_EventMonitorBase__ctor_System_Object_
+  commentId: M:Toolbox.Testing.EventMonitorBase.#ctor(System.Object)
+  fullName: Toolbox.Testing.EventMonitorBase.EventMonitorBase(System.Object)
+  nameWithType: EventMonitorBase.EventMonitorBase(Object)
+- uid: Toolbox.Testing.EventMonitorBase.#ctor*
+  name: EventMonitorBase
+  href: api/Toolbox.Testing.EventMonitorBase.html#Toolbox_Testing_EventMonitorBase__ctor_
+  commentId: Overload:Toolbox.Testing.EventMonitorBase.#ctor
+  isSpec: "True"
+  fullName: Toolbox.Testing.EventMonitorBase.EventMonitorBase
+  nameWithType: EventMonitorBase.EventMonitorBase
+- uid: Toolbox.Testing.EventMonitorBase.Calls
+  name: Calls
+  href: api/Toolbox.Testing.EventMonitorBase.html#Toolbox_Testing_EventMonitorBase_Calls
+  commentId: P:Toolbox.Testing.EventMonitorBase.Calls
+  fullName: Toolbox.Testing.EventMonitorBase.Calls
+  nameWithType: EventMonitorBase.Calls
+- uid: Toolbox.Testing.EventMonitorBase.Calls*
+  name: Calls
+  href: api/Toolbox.Testing.EventMonitorBase.html#Toolbox_Testing_EventMonitorBase_Calls_
+  commentId: Overload:Toolbox.Testing.EventMonitorBase.Calls
+  isSpec: "True"
+  fullName: Toolbox.Testing.EventMonitorBase.Calls
+  nameWithType: EventMonitorBase.Calls
+- uid: Toolbox.Testing.EventMonitorBase.Hooks
+  name: Hooks
+  href: api/Toolbox.Testing.EventMonitorBase.html#Toolbox_Testing_EventMonitorBase_Hooks
+  commentId: P:Toolbox.Testing.EventMonitorBase.Hooks
+  fullName: Toolbox.Testing.EventMonitorBase.Hooks
+  nameWithType: EventMonitorBase.Hooks
+- uid: Toolbox.Testing.EventMonitorBase.Hooks*
+  name: Hooks
+  href: api/Toolbox.Testing.EventMonitorBase.html#Toolbox_Testing_EventMonitorBase_Hooks_
+  commentId: Overload:Toolbox.Testing.EventMonitorBase.Hooks
+  isSpec: "True"
+  fullName: Toolbox.Testing.EventMonitorBase.Hooks
+  nameWithType: EventMonitorBase.Hooks
+- uid: Toolbox.Testing.EventMonitorBase.Object
+  name: Object
+  href: api/Toolbox.Testing.EventMonitorBase.html#Toolbox_Testing_EventMonitorBase_Object
+  commentId: P:Toolbox.Testing.EventMonitorBase.Object
+  fullName: Toolbox.Testing.EventMonitorBase.Object
+  nameWithType: EventMonitorBase.Object
+- uid: Toolbox.Testing.EventMonitorBase.Object*
+  name: Object
+  href: api/Toolbox.Testing.EventMonitorBase.html#Toolbox_Testing_EventMonitorBase_Object_
+  commentId: Overload:Toolbox.Testing.EventMonitorBase.Object
+  isSpec: "True"
+  fullName: Toolbox.Testing.EventMonitorBase.Object
+  nameWithType: EventMonitorBase.Object
+- uid: Toolbox.Testing.ObjectExtension
+  name: ObjectExtension
+  href: api/Toolbox.Testing.ObjectExtension.html
+  commentId: T:Toolbox.Testing.ObjectExtension
+  fullName: Toolbox.Testing.ObjectExtension
+  nameWithType: ObjectExtension
+- uid: Toolbox.Testing.ObjectExtension.GetMonitor*
+  name: GetMonitor
+  href: api/Toolbox.Testing.ObjectExtension.html#Toolbox_Testing_ObjectExtension_GetMonitor_
+  commentId: Overload:Toolbox.Testing.ObjectExtension.GetMonitor
+  isSpec: "True"
+  fullName: Toolbox.Testing.ObjectExtension.GetMonitor
+  nameWithType: ObjectExtension.GetMonitor
+- uid: Toolbox.Testing.ObjectExtension.GetMonitor``1(``0)
+  name: GetMonitor<T>(T)
+  href: api/Toolbox.Testing.ObjectExtension.html#Toolbox_Testing_ObjectExtension_GetMonitor__1___0_
+  commentId: M:Toolbox.Testing.ObjectExtension.GetMonitor``1(``0)
+  name.vb: GetMonitor(Of T)(T)
+  fullName: Toolbox.Testing.ObjectExtension.GetMonitor<T>(T)
+  fullName.vb: Toolbox.Testing.ObjectExtension.GetMonitor(Of T)(T)
+  nameWithType: ObjectExtension.GetMonitor<T>(T)
+  nameWithType.vb: ObjectExtension.GetMonitor(Of T)(T)
